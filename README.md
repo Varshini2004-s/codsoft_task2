@@ -1,0 +1,1 @@
+As a web development intern at Codsoft i have completed my second task of creating a simple landing page. In this task i have created a landing page for ice cream which visually appealing ice cream images and different varities of flavors offered along with the pricing. I had created a customers reviews form for the review of the customers to be gathered.
